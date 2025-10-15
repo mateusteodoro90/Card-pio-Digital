@@ -92,6 +92,13 @@ p.descricao {
 .btn:hover {
     background-color: #c72e3b;
 }
+.botoes {
+    background-color: #c72e3b;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
 
 
 
